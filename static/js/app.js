@@ -1,4 +1,3 @@
-
 // from data.js
 const tableData = data;
 
